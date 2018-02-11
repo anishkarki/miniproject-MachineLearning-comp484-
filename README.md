@@ -10,7 +10,7 @@ Pranav Sharma(7)
 Prabhav Pant(55)
 
 Running the project:
-Download the files and Run python calculate.py in terminal.
+Download all the files and Run python calculate.py in terminal.
 
 Checking the Error of the algorithm:
 Run python stocks-experiments.py in terminal
