@@ -8,3 +8,9 @@ Team Members
 Anish Karki(04)
 Pranav Sharma(7)
 Prabhav Pant(55)
+
+Running the project:
+Download the files and Run python calculate.py in terminal.
+
+Requirements:
+Python 2.7.**
