@@ -17,3 +17,7 @@ Run python stocks-experiments.py in terminal
 
 Requirements:
 Python 2.7.**
+
+Error has been calculated using the formula (absolute((actual-predicted)/actual)*100%. 
+
+The project is complete.
